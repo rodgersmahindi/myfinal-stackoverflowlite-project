@@ -6,8 +6,8 @@
 StackOverflow-Lite is a platform where people can ask questions and provide answers.
 
 ## Required Features
-    1. Users can access the landing page.
-    2. Users can register and create an account and log in.
+    1. Users can access the home page.
+    2. Users can register to create an account and log in.
     3. Users can view their profiles
     4. Users can ask questions.
     5. Users can delete the questions they post.
@@ -20,13 +20,13 @@ StackOverflow-Lite is a platform where people can ask questions and provide answ
 
 **[Pivotal Tacker UI Stories](https://www.pivotaltracker.com/n/projects/2189516)**
 
-    * Landing page with Sign up form
-    * Login pages
+    * Home page with Sign up form
+    * Login page
     * Questions list page
     * View questions and Answers page
     * Post question page
     * User profile page
-    * Host UI template on github pages 
+    * Host the Frontend template on github pages 
 
 ## Installation
 
